@@ -1,0 +1,10 @@
+Windows_Licensing_*/
+sensitive/
+OEM-Firmware-Product-Key.txt
+*.log
+before.json
+after.json
+*-windows-licenses.csv
+*-licensing-services.csv
+*-slmgr-*.txt
+slmgr-*.txt
