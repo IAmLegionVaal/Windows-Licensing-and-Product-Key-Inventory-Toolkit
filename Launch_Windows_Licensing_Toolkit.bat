@@ -4,6 +4,7 @@ cd /d "%~dp0"
 
 :menu
 set "ACTION="
+set "CHOICE="
 cls
 echo ============================================================
 echo   WINDOWS LICENSING AND PRODUCT KEY TOOLKIT
